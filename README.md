@@ -56,5 +56,13 @@ default.payment.next.month: Default payment (1=yes, 0=no)
 
 # Conclusion
 
-More credit card defualt for limit balance about 10000. It might mean that credit card might be too easy to be issued for people who have low credit scores. The variance of the default rate for limit balance over 500,000 NTD is higher than other range of limit balance. It is lower default rate for cardholders have higher education level. Moreover, the default rate for clients whose age over 60 was higher than mid age and young people. The best fit algorithm for predicting limit balance is bagging approach. The best fit algorithm for predicting whether a client default next month is classification tree.
+Increase in default rate for credit cards with limit balance of 10,000 NTD.
+
+High variance in default rate for cards with limit balance over 500,000 NTD.
+
+Lower default rate for cardholders with higher education level.
+
+Higher default rate for clients over 60 years of age.
+
+Best fit algorithms for predicting limit balance and default rate: Bagging approach and Classification tree, respectively.
 
